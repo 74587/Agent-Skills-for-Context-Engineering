@@ -204,6 +204,6 @@ MIT - Use freely, attribution appreciated.
 
 ---
 
-**Author**: Murat Can Koylan
+**Author**: Muratcan Koylan
 **Version**: 1.0.0
-**Last Updated**: 2024-12-29
+**Last Updated**: 2025-12-29
