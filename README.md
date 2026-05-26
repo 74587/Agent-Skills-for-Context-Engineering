@@ -15,7 +15,6 @@ The fundamental challenge is that context windows are constrained not by raw tok
 This repository is cited in academic research as foundational work on static skill architecture:
 
 > "While static skills are well-recognized [Anthropic, 2025b; Muratcan Koylan, 2025], MCE is among the first to dynamically evolve them, bridging manual skill engineering and autonomous self-improvement."
-
 1. [Meta Context Engineering via Agentic Skill Evolution](https://arxiv.org/pdf/2601.21557), Peking University State Key Laboratory of General Artificial Intelligence (2025)
 2. [Agent Harness Engineering: A Survey](https://openreview.net/pdf/f358711a95aaaf61fdeffd4ef3fc60fba9b8da57.pdf), CMU, Yale, JHU, NEU, Tulane, UAB, OSU, Virginia Tech, and Amazon (2026)
 
@@ -287,7 +286,7 @@ See [researcher/runbooks/continuous-operation.md](researcher/runbooks/continuous
 - Agents may prepare PRs after gates pass; merge and push remain human-controlled.
 
 ## Star History
-<img width="3664" height="2648" alt="star-history-2026317" src="https://github.com/user-attachments/assets/0fe53d8d-7fdd-45be-9c28-057881b23b44" />
+<img width="3664" height="2808" alt="star-history-2026526" src="https://github.com/user-attachments/assets/c9f88769-21b8-4762-9472-d4cf1fe1c802" />
 
 ## Structure
 
